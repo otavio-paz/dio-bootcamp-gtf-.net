@@ -1,5 +1,6 @@
 # Bootcamp GFT Start #4 .NET
 
+![coding_gif](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)  
 **Olá devs e eu do futuro!** Deixando (como sempre) meu progresso bem organizado para que eu tenha mais motivação para desenvolver!
 
 ## Progresso do Bootcamp
