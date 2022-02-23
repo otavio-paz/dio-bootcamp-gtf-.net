@@ -8,8 +8,9 @@
 ✔ Lógica de Programação Essencial.  
 ✔ Aprenda o que são Estrutura de Dados e Algoritmos.  
 ✔ Introdução ao Git e ao Git Hub.  
-✔ Criando seu Primeiro Reposótirio no GitHuv Para Compartilhar Seu Progresso (atualizado 20/02/2022).  
-❌ Introdução ao Ecossistema .NET e Documentação  
+✔ Criando seu Primeiro Reposótirio no GitHuv Para Compartilhar Seu Progresso.  
+⏳  Introdução ao Ecossistema .NET e Documentação  (atualizado 23/02/2022).  
+❌ Criando o ambiente de desenvolvimento.  
 
 ## Outros repositórios:
 
