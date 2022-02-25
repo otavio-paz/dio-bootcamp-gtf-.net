@@ -15,7 +15,7 @@
 
 ## Anotações:
 
-[Caderno de anotações - Notion](https://www.notion.so/otaviospace/GFT-Start-4-4ff376acdda34de9862d431e9dce1879)  
+[Caderno de anotações - Notion](https://otaviospace.notion.site/GFT-Start-4-4ff376acdda34de9862d431e9dce1879)  
 
 ## Outros repositórios:
 
