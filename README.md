@@ -3,7 +3,7 @@
 ![coding_gif](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)  
 **Olá devs e eu do futuro!** Deixando (como sempre) meu progresso bem organizado para que eu tenha mais motivação para desenvolver!
 
-## Progresso do Bootcamp
+## Progresso do Bootcamp:
 ✔ Boas-vindas ao Bootcamp GFT Start #4 .NET.  
 ✔ Lógica de Programação Essencial.  
 ✔ Aprenda o que são Estrutura de Dados e Algoritmos.  
@@ -13,6 +13,10 @@
 ✔ Criando o ambiente de desenvolvimento.  
 ✔ Primeiros passos com .NET.  
 ⏳ Trabalhando com Tipos de Referência e Valor em C# (atualizado 26/02/2022).  
+
+## Estudos adicionais:
+✔ Projetos Ágeis com SCRUM  
+✔ Linux: Introdução ao Sistema Operacional e Terminal  
 
 ## Anotações:
 
