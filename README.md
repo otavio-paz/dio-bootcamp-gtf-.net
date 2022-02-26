@@ -11,7 +11,8 @@
 ✔ Criando seu Primeiro Reposótirio no GitHuv Para Compartilhar Seu Progresso.  
 ✔ Introdução ao Ecossistema .NET e Documentação.  
 ✔ Criando o ambiente de desenvolvimento.  
-⏳ Primeiros passos com .NET (atualizado 25/02/2022).  
+✔ Primeiros passos com .NET.  
+⏳ Trabalhando com Tipos de Referência e Valor em C# (atualizado 26/02/2022).  
 
 ## Anotações:
 
