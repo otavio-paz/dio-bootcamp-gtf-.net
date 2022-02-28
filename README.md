@@ -12,7 +12,8 @@
 ✔ Introdução ao Ecossistema .NET e Documentação.  
 ✔ Criando o ambiente de desenvolvimento.  
 ✔ Primeiros passos com .NET.  
-⏳ Trabalhando com Tipos de Referência e Valor em C# (atualizado 26/02/2022).  
+⏳ Trabalhando com Tipos de Referência e Valor em C# (atualizado 27/02/2022).  
+✔ Introdução a HTTP/HTTPS (APIs e REST).  
 
 ## Estudos adicionais:
 ✔ Projetos Ágeis com SCRUM  
