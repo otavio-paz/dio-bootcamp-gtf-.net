@@ -1,0 +1,15 @@
+C:\Users\pazot\Desktop\Projects\Git\DIO\dio-bootcamp-gtf-.net\Controlando_Fluxo_de_Execucao\Aula01_Entradas\bin\Debug\net6.0\Aula01_Entradas.exe
+C:\Users\pazot\Desktop\Projects\Git\DIO\dio-bootcamp-gtf-.net\Controlando_Fluxo_de_Execucao\Aula01_Entradas\bin\Debug\net6.0\Aula01_Entradas.deps.json
+C:\Users\pazot\Desktop\Projects\Git\DIO\dio-bootcamp-gtf-.net\Controlando_Fluxo_de_Execucao\Aula01_Entradas\bin\Debug\net6.0\Aula01_Entradas.runtimeconfig.json
+C:\Users\pazot\Desktop\Projects\Git\DIO\dio-bootcamp-gtf-.net\Controlando_Fluxo_de_Execucao\Aula01_Entradas\bin\Debug\net6.0\Aula01_Entradas.dll
+C:\Users\pazot\Desktop\Projects\Git\DIO\dio-bootcamp-gtf-.net\Controlando_Fluxo_de_Execucao\Aula01_Entradas\bin\Debug\net6.0\Aula01_Entradas.pdb
+C:\Users\pazot\Desktop\Projects\Git\DIO\dio-bootcamp-gtf-.net\Controlando_Fluxo_de_Execucao\Aula01_Entradas\obj\Debug\net6.0\Aula01_Entradas.csproj.AssemblyReference.cache
+C:\Users\pazot\Desktop\Projects\Git\DIO\dio-bootcamp-gtf-.net\Controlando_Fluxo_de_Execucao\Aula01_Entradas\obj\Debug\net6.0\Aula01_Entradas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pazot\Desktop\Projects\Git\DIO\dio-bootcamp-gtf-.net\Controlando_Fluxo_de_Execucao\Aula01_Entradas\obj\Debug\net6.0\Aula01_Entradas.AssemblyInfoInputs.cache
+C:\Users\pazot\Desktop\Projects\Git\DIO\dio-bootcamp-gtf-.net\Controlando_Fluxo_de_Execucao\Aula01_Entradas\obj\Debug\net6.0\Aula01_Entradas.AssemblyInfo.cs
+C:\Users\pazot\Desktop\Projects\Git\DIO\dio-bootcamp-gtf-.net\Controlando_Fluxo_de_Execucao\Aula01_Entradas\obj\Debug\net6.0\Aula01_Entradas.csproj.CoreCompileInputs.cache
+C:\Users\pazot\Desktop\Projects\Git\DIO\dio-bootcamp-gtf-.net\Controlando_Fluxo_de_Execucao\Aula01_Entradas\obj\Debug\net6.0\Aula01_Entradas.dll
+C:\Users\pazot\Desktop\Projects\Git\DIO\dio-bootcamp-gtf-.net\Controlando_Fluxo_de_Execucao\Aula01_Entradas\obj\Debug\net6.0\refint\Aula01_Entradas.dll
+C:\Users\pazot\Desktop\Projects\Git\DIO\dio-bootcamp-gtf-.net\Controlando_Fluxo_de_Execucao\Aula01_Entradas\obj\Debug\net6.0\Aula01_Entradas.pdb
+C:\Users\pazot\Desktop\Projects\Git\DIO\dio-bootcamp-gtf-.net\Controlando_Fluxo_de_Execucao\Aula01_Entradas\obj\Debug\net6.0\Aula01_Entradas.genruntimeconfig.cache
+C:\Users\pazot\Desktop\Projects\Git\DIO\dio-bootcamp-gtf-.net\Controlando_Fluxo_de_Execucao\Aula01_Entradas\obj\Debug\net6.0\ref\Aula01_Entradas.dll
