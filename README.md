@@ -13,7 +13,7 @@
 ✔ Criando o ambiente de desenvolvimento.  
 ✔ Primeiros passos com .NET.  
 ✔ Trabalhando com Tipos de Referência e Valor em C#.  
-⏳ Controlando o Fluxo de Execução.
+⏳ Controlando o Fluxo de Execução.  
 ✔ Introdução a HTTP/HTTPS (APIs e REST).  
 
 ## Estudos adicionais:
