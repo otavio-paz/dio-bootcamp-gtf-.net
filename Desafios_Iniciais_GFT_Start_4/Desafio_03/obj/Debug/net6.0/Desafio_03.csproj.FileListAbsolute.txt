@@ -1,0 +1,15 @@
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Desafios_Iniciais_GFT_Start_4\Desafio_03\bin\Debug\net6.0\Desafio_03.exe
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Desafios_Iniciais_GFT_Start_4\Desafio_03\bin\Debug\net6.0\Desafio_03.deps.json
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Desafios_Iniciais_GFT_Start_4\Desafio_03\bin\Debug\net6.0\Desafio_03.runtimeconfig.json
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Desafios_Iniciais_GFT_Start_4\Desafio_03\bin\Debug\net6.0\Desafio_03.dll
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Desafios_Iniciais_GFT_Start_4\Desafio_03\bin\Debug\net6.0\Desafio_03.pdb
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Desafios_Iniciais_GFT_Start_4\Desafio_03\obj\Debug\net6.0\Desafio_03.csproj.AssemblyReference.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Desafios_Iniciais_GFT_Start_4\Desafio_03\obj\Debug\net6.0\Desafio_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Desafios_Iniciais_GFT_Start_4\Desafio_03\obj\Debug\net6.0\Desafio_03.AssemblyInfoInputs.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Desafios_Iniciais_GFT_Start_4\Desafio_03\obj\Debug\net6.0\Desafio_03.AssemblyInfo.cs
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Desafios_Iniciais_GFT_Start_4\Desafio_03\obj\Debug\net6.0\Desafio_03.csproj.CoreCompileInputs.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Desafios_Iniciais_GFT_Start_4\Desafio_03\obj\Debug\net6.0\Desafio_03.dll
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Desafios_Iniciais_GFT_Start_4\Desafio_03\obj\Debug\net6.0\refint\Desafio_03.dll
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Desafios_Iniciais_GFT_Start_4\Desafio_03\obj\Debug\net6.0\Desafio_03.pdb
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Desafios_Iniciais_GFT_Start_4\Desafio_03\obj\Debug\net6.0\Desafio_03.genruntimeconfig.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Desafios_Iniciais_GFT_Start_4\Desafio_03\obj\Debug\net6.0\ref\Desafio_03.dll
