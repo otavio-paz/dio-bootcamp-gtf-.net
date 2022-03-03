@@ -1,0 +1,15 @@
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Abstraindo_ jogo_RPG\bin\Debug\net6.0\Abstraindo_ jogo_RPG.exe
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Abstraindo_ jogo_RPG\bin\Debug\net6.0\Abstraindo_ jogo_RPG.deps.json
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Abstraindo_ jogo_RPG\bin\Debug\net6.0\Abstraindo_ jogo_RPG.runtimeconfig.json
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Abstraindo_ jogo_RPG\bin\Debug\net6.0\Abstraindo_ jogo_RPG.dll
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Abstraindo_ jogo_RPG\bin\Debug\net6.0\Abstraindo_ jogo_RPG.pdb
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Abstraindo_ jogo_RPG\obj\Debug\net6.0\Abstraindo_ jogo_RPG.csproj.AssemblyReference.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Abstraindo_ jogo_RPG\obj\Debug\net6.0\Abstraindo_ jogo_RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Abstraindo_ jogo_RPG\obj\Debug\net6.0\Abstraindo_ jogo_RPG.AssemblyInfoInputs.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Abstraindo_ jogo_RPG\obj\Debug\net6.0\Abstraindo_ jogo_RPG.AssemblyInfo.cs
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Abstraindo_ jogo_RPG\obj\Debug\net6.0\Abstraindo_ jogo_RPG.csproj.CoreCompileInputs.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Abstraindo_ jogo_RPG\obj\Debug\net6.0\Abstraindo_ jogo_RPG.dll
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Abstraindo_ jogo_RPG\obj\Debug\net6.0\refint\Abstraindo_ jogo_RPG.dll
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Abstraindo_ jogo_RPG\obj\Debug\net6.0\Abstraindo_ jogo_RPG.pdb
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Abstraindo_ jogo_RPG\obj\Debug\net6.0\Abstraindo_ jogo_RPG.genruntimeconfig.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Abstraindo_ jogo_RPG\obj\Debug\net6.0\ref\Abstraindo_ jogo_RPG.dll
