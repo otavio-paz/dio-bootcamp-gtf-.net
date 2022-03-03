@@ -1,0 +1,15 @@
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Controlando_Fluxo_de_Execucao\Aula04_Break_Continue\bin\Debug\net6.0\Aula04_Break_Continue.exe
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Controlando_Fluxo_de_Execucao\Aula04_Break_Continue\bin\Debug\net6.0\Aula04_Break_Continue.deps.json
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Controlando_Fluxo_de_Execucao\Aula04_Break_Continue\bin\Debug\net6.0\Aula04_Break_Continue.runtimeconfig.json
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Controlando_Fluxo_de_Execucao\Aula04_Break_Continue\bin\Debug\net6.0\Aula04_Break_Continue.dll
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Controlando_Fluxo_de_Execucao\Aula04_Break_Continue\bin\Debug\net6.0\Aula04_Break_Continue.pdb
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Controlando_Fluxo_de_Execucao\Aula04_Break_Continue\obj\Debug\net6.0\Aula04_Break_Continue.csproj.AssemblyReference.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Controlando_Fluxo_de_Execucao\Aula04_Break_Continue\obj\Debug\net6.0\Aula04_Break_Continue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Controlando_Fluxo_de_Execucao\Aula04_Break_Continue\obj\Debug\net6.0\Aula04_Break_Continue.AssemblyInfoInputs.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Controlando_Fluxo_de_Execucao\Aula04_Break_Continue\obj\Debug\net6.0\Aula04_Break_Continue.AssemblyInfo.cs
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Controlando_Fluxo_de_Execucao\Aula04_Break_Continue\obj\Debug\net6.0\Aula04_Break_Continue.csproj.CoreCompileInputs.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Controlando_Fluxo_de_Execucao\Aula04_Break_Continue\obj\Debug\net6.0\Aula04_Break_Continue.dll
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Controlando_Fluxo_de_Execucao\Aula04_Break_Continue\obj\Debug\net6.0\refint\Aula04_Break_Continue.dll
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Controlando_Fluxo_de_Execucao\Aula04_Break_Continue\obj\Debug\net6.0\Aula04_Break_Continue.pdb
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Controlando_Fluxo_de_Execucao\Aula04_Break_Continue\obj\Debug\net6.0\Aula04_Break_Continue.genruntimeconfig.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Controlando_Fluxo_de_Execucao\Aula04_Break_Continue\obj\Debug\net6.0\ref\Aula04_Break_Continue.dll
