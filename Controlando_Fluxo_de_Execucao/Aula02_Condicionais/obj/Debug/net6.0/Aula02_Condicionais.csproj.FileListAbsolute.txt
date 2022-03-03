@@ -1,0 +1,15 @@
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Controlando_Fluxo_de_Execucao\Aula02_Condicionais\bin\Debug\net6.0\Aula02_Condicionais.exe
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Controlando_Fluxo_de_Execucao\Aula02_Condicionais\bin\Debug\net6.0\Aula02_Condicionais.deps.json
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Controlando_Fluxo_de_Execucao\Aula02_Condicionais\bin\Debug\net6.0\Aula02_Condicionais.runtimeconfig.json
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Controlando_Fluxo_de_Execucao\Aula02_Condicionais\bin\Debug\net6.0\Aula02_Condicionais.dll
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Controlando_Fluxo_de_Execucao\Aula02_Condicionais\bin\Debug\net6.0\Aula02_Condicionais.pdb
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Controlando_Fluxo_de_Execucao\Aula02_Condicionais\obj\Debug\net6.0\Aula02_Condicionais.csproj.AssemblyReference.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Controlando_Fluxo_de_Execucao\Aula02_Condicionais\obj\Debug\net6.0\Aula02_Condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Controlando_Fluxo_de_Execucao\Aula02_Condicionais\obj\Debug\net6.0\Aula02_Condicionais.AssemblyInfoInputs.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Controlando_Fluxo_de_Execucao\Aula02_Condicionais\obj\Debug\net6.0\Aula02_Condicionais.AssemblyInfo.cs
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Controlando_Fluxo_de_Execucao\Aula02_Condicionais\obj\Debug\net6.0\Aula02_Condicionais.csproj.CoreCompileInputs.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Controlando_Fluxo_de_Execucao\Aula02_Condicionais\obj\Debug\net6.0\Aula02_Condicionais.dll
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Controlando_Fluxo_de_Execucao\Aula02_Condicionais\obj\Debug\net6.0\refint\Aula02_Condicionais.dll
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Controlando_Fluxo_de_Execucao\Aula02_Condicionais\obj\Debug\net6.0\Aula02_Condicionais.pdb
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Controlando_Fluxo_de_Execucao\Aula02_Condicionais\obj\Debug\net6.0\Aula02_Condicionais.genruntimeconfig.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Controlando_Fluxo_de_Execucao\Aula02_Condicionais\obj\Debug\net6.0\ref\Aula02_Condicionais.dll

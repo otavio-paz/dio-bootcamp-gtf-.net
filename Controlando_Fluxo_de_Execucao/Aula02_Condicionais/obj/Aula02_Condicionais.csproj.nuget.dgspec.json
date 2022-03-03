@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pazot\\Desktop\\Projects\\Git\\DIO\\dio-bootcamp-gtf-.net\\Controlando_Fluxo_de_Execucao\\Aula02_Condicionais\\Aula02_Condicionais.csproj": {}
+    "C:\\Users\\pazot\\Desktop\\Projects\\Git\\Digital Innovation One\\dio-bootcamp-gtf-.net\\Controlando_Fluxo_de_Execucao\\Aula02_Condicionais\\Aula02_Condicionais.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pazot\\Desktop\\Projects\\Git\\DIO\\dio-bootcamp-gtf-.net\\Controlando_Fluxo_de_Execucao\\Aula02_Condicionais\\Aula02_Condicionais.csproj": {
+    "C:\\Users\\pazot\\Desktop\\Projects\\Git\\Digital Innovation One\\dio-bootcamp-gtf-.net\\Controlando_Fluxo_de_Execucao\\Aula02_Condicionais\\Aula02_Condicionais.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pazot\\Desktop\\Projects\\Git\\DIO\\dio-bootcamp-gtf-.net\\Controlando_Fluxo_de_Execucao\\Aula02_Condicionais\\Aula02_Condicionais.csproj",
+        "projectUniqueName": "C:\\Users\\pazot\\Desktop\\Projects\\Git\\Digital Innovation One\\dio-bootcamp-gtf-.net\\Controlando_Fluxo_de_Execucao\\Aula02_Condicionais\\Aula02_Condicionais.csproj",
         "projectName": "Aula02_Condicionais",
-        "projectPath": "C:\\Users\\pazot\\Desktop\\Projects\\Git\\DIO\\dio-bootcamp-gtf-.net\\Controlando_Fluxo_de_Execucao\\Aula02_Condicionais\\Aula02_Condicionais.csproj",
+        "projectPath": "C:\\Users\\pazot\\Desktop\\Projects\\Git\\Digital Innovation One\\dio-bootcamp-gtf-.net\\Controlando_Fluxo_de_Execucao\\Aula02_Condicionais\\Aula02_Condicionais.csproj",
         "packagesPath": "C:\\Users\\pazot\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pazot\\Desktop\\Projects\\Git\\DIO\\dio-bootcamp-gtf-.net\\Controlando_Fluxo_de_Execucao\\Aula02_Condicionais\\obj\\",
+        "outputPath": "C:\\Users\\pazot\\Desktop\\Projects\\Git\\Digital Innovation One\\dio-bootcamp-gtf-.net\\Controlando_Fluxo_de_Execucao\\Aula02_Condicionais\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pazot\\AppData\\Roaming\\NuGet\\NuGet.Config"
