@@ -13,7 +13,7 @@
 ✔ Criando o ambiente de desenvolvimento.  
 ✔ Primeiros passos com .NET.  
 ✔ Trabalhando com Tipos de Referência e Valor em C#.  
-✔ Controlando o Fluxo de Execução. 
+✔ Controlando o Fluxo de Execução.  
 ✔ Abstraindo um Jogo de RPG usando Orientação a Objetos com C#.  
 ✔ Introdução a HTTP/HTTPS (APIs e REST).  
 ⏳ Trabalhando com Arquivos e Streams em C#.  
