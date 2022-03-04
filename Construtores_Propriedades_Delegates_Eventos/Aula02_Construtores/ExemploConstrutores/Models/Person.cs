@@ -15,6 +15,7 @@ namespace ExemploConstrutores.Models
         {
             this.name = name;
             this.last_name = last_name;
+            System.Console.WriteLine("Construtor classe pessoa!");
         }
 
         public void Introduction()
