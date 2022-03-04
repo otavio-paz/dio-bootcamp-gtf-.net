@@ -1,0 +1,15 @@
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Programando_com_Orientacao_a_Objeto_Com_CSharp\Abstracao\ExemploPOO\bin\Debug\net6.0\ExemploPOO.exe
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Programando_com_Orientacao_a_Objeto_Com_CSharp\Abstracao\ExemploPOO\bin\Debug\net6.0\ExemploPOO.deps.json
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Programando_com_Orientacao_a_Objeto_Com_CSharp\Abstracao\ExemploPOO\bin\Debug\net6.0\ExemploPOO.runtimeconfig.json
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Programando_com_Orientacao_a_Objeto_Com_CSharp\Abstracao\ExemploPOO\bin\Debug\net6.0\ExemploPOO.dll
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Programando_com_Orientacao_a_Objeto_Com_CSharp\Abstracao\ExemploPOO\bin\Debug\net6.0\ExemploPOO.pdb
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Programando_com_Orientacao_a_Objeto_Com_CSharp\Abstracao\ExemploPOO\obj\Debug\net6.0\ExemploPOO.csproj.AssemblyReference.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Programando_com_Orientacao_a_Objeto_Com_CSharp\Abstracao\ExemploPOO\obj\Debug\net6.0\ExemploPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Programando_com_Orientacao_a_Objeto_Com_CSharp\Abstracao\ExemploPOO\obj\Debug\net6.0\ExemploPOO.AssemblyInfoInputs.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Programando_com_Orientacao_a_Objeto_Com_CSharp\Abstracao\ExemploPOO\obj\Debug\net6.0\ExemploPOO.AssemblyInfo.cs
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Programando_com_Orientacao_a_Objeto_Com_CSharp\Abstracao\ExemploPOO\obj\Debug\net6.0\ExemploPOO.csproj.CoreCompileInputs.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Programando_com_Orientacao_a_Objeto_Com_CSharp\Abstracao\ExemploPOO\obj\Debug\net6.0\ExemploPOO.dll
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Programando_com_Orientacao_a_Objeto_Com_CSharp\Abstracao\ExemploPOO\obj\Debug\net6.0\refint\ExemploPOO.dll
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Programando_com_Orientacao_a_Objeto_Com_CSharp\Abstracao\ExemploPOO\obj\Debug\net6.0\ExemploPOO.pdb
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Programando_com_Orientacao_a_Objeto_Com_CSharp\Abstracao\ExemploPOO\obj\Debug\net6.0\ExemploPOO.genruntimeconfig.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Programando_com_Orientacao_a_Objeto_Com_CSharp\Abstracao\ExemploPOO\obj\Debug\net6.0\ref\ExemploPOO.dll

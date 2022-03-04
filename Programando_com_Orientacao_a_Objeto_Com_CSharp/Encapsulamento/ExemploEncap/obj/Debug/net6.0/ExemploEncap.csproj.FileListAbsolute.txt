@@ -1,0 +1,15 @@
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Programando_com_Orientacao_a_Objeto_Com_CSharp\Encapsulamento\ExemploEncap\bin\Debug\net6.0\ExemploEncap.exe
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Programando_com_Orientacao_a_Objeto_Com_CSharp\Encapsulamento\ExemploEncap\bin\Debug\net6.0\ExemploEncap.deps.json
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Programando_com_Orientacao_a_Objeto_Com_CSharp\Encapsulamento\ExemploEncap\bin\Debug\net6.0\ExemploEncap.runtimeconfig.json
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Programando_com_Orientacao_a_Objeto_Com_CSharp\Encapsulamento\ExemploEncap\bin\Debug\net6.0\ExemploEncap.dll
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Programando_com_Orientacao_a_Objeto_Com_CSharp\Encapsulamento\ExemploEncap\bin\Debug\net6.0\ExemploEncap.pdb
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Programando_com_Orientacao_a_Objeto_Com_CSharp\Encapsulamento\ExemploEncap\obj\Debug\net6.0\ExemploEncap.csproj.AssemblyReference.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Programando_com_Orientacao_a_Objeto_Com_CSharp\Encapsulamento\ExemploEncap\obj\Debug\net6.0\ExemploEncap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Programando_com_Orientacao_a_Objeto_Com_CSharp\Encapsulamento\ExemploEncap\obj\Debug\net6.0\ExemploEncap.AssemblyInfoInputs.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Programando_com_Orientacao_a_Objeto_Com_CSharp\Encapsulamento\ExemploEncap\obj\Debug\net6.0\ExemploEncap.AssemblyInfo.cs
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Programando_com_Orientacao_a_Objeto_Com_CSharp\Encapsulamento\ExemploEncap\obj\Debug\net6.0\ExemploEncap.csproj.CoreCompileInputs.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Programando_com_Orientacao_a_Objeto_Com_CSharp\Encapsulamento\ExemploEncap\obj\Debug\net6.0\ExemploEncap.dll
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Programando_com_Orientacao_a_Objeto_Com_CSharp\Encapsulamento\ExemploEncap\obj\Debug\net6.0\refint\ExemploEncap.dll
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Programando_com_Orientacao_a_Objeto_Com_CSharp\Encapsulamento\ExemploEncap\obj\Debug\net6.0\ExemploEncap.pdb
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Programando_com_Orientacao_a_Objeto_Com_CSharp\Encapsulamento\ExemploEncap\obj\Debug\net6.0\ExemploEncap.genruntimeconfig.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Programando_com_Orientacao_a_Objeto_Com_CSharp\Encapsulamento\ExemploEncap\obj\Debug\net6.0\ref\ExemploEncap.dll
