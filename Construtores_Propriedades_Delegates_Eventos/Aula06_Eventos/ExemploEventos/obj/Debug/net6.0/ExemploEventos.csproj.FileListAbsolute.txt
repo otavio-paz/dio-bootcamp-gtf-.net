@@ -1,0 +1,15 @@
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Construtores_Propriedades_Delegates_Eventos\Aula06_Eventos\ExemploEventos\bin\Debug\net6.0\ExemploEventos.exe
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Construtores_Propriedades_Delegates_Eventos\Aula06_Eventos\ExemploEventos\bin\Debug\net6.0\ExemploEventos.deps.json
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Construtores_Propriedades_Delegates_Eventos\Aula06_Eventos\ExemploEventos\bin\Debug\net6.0\ExemploEventos.runtimeconfig.json
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Construtores_Propriedades_Delegates_Eventos\Aula06_Eventos\ExemploEventos\bin\Debug\net6.0\ExemploEventos.dll
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Construtores_Propriedades_Delegates_Eventos\Aula06_Eventos\ExemploEventos\bin\Debug\net6.0\ExemploEventos.pdb
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Construtores_Propriedades_Delegates_Eventos\Aula06_Eventos\ExemploEventos\obj\Debug\net6.0\ExemploEventos.csproj.AssemblyReference.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Construtores_Propriedades_Delegates_Eventos\Aula06_Eventos\ExemploEventos\obj\Debug\net6.0\ExemploEventos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Construtores_Propriedades_Delegates_Eventos\Aula06_Eventos\ExemploEventos\obj\Debug\net6.0\ExemploEventos.AssemblyInfoInputs.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Construtores_Propriedades_Delegates_Eventos\Aula06_Eventos\ExemploEventos\obj\Debug\net6.0\ExemploEventos.AssemblyInfo.cs
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Construtores_Propriedades_Delegates_Eventos\Aula06_Eventos\ExemploEventos\obj\Debug\net6.0\ExemploEventos.csproj.CoreCompileInputs.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Construtores_Propriedades_Delegates_Eventos\Aula06_Eventos\ExemploEventos\obj\Debug\net6.0\ExemploEventos.dll
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Construtores_Propriedades_Delegates_Eventos\Aula06_Eventos\ExemploEventos\obj\Debug\net6.0\refint\ExemploEventos.dll
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Construtores_Propriedades_Delegates_Eventos\Aula06_Eventos\ExemploEventos\obj\Debug\net6.0\ExemploEventos.pdb
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Construtores_Propriedades_Delegates_Eventos\Aula06_Eventos\ExemploEventos\obj\Debug\net6.0\ExemploEventos.genruntimeconfig.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Construtores_Propriedades_Delegates_Eventos\Aula06_Eventos\ExemploEventos\obj\Debug\net6.0\ref\ExemploEventos.dll
