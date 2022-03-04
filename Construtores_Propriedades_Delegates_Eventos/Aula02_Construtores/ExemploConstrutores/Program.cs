@@ -11,6 +11,13 @@ namespace ExemploConstrutores
             Person p2 = new Person("Otávio", "Paz"); //usando o contrutor q pede name e last_name
 
             p2.Introduction();
+
+            Log log = Log.GetInstance();
+
+            log.LogProperty = "Teste instância";
+
+            Log log2 = Log.GetInstance();
+            WriteLine(log2.LogProperty);
         }
     }
 }
