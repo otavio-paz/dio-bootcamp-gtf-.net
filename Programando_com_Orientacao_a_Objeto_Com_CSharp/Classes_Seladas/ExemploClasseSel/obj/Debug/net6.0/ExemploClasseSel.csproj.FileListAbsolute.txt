@@ -1,0 +1,15 @@
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Programando_com_Orientacao_a_Objeto_Com_CSharp\Classes_Seladas\ExemploClasseSel\bin\Debug\net6.0\ExemploClasseSel.exe
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Programando_com_Orientacao_a_Objeto_Com_CSharp\Classes_Seladas\ExemploClasseSel\bin\Debug\net6.0\ExemploClasseSel.deps.json
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Programando_com_Orientacao_a_Objeto_Com_CSharp\Classes_Seladas\ExemploClasseSel\bin\Debug\net6.0\ExemploClasseSel.runtimeconfig.json
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Programando_com_Orientacao_a_Objeto_Com_CSharp\Classes_Seladas\ExemploClasseSel\bin\Debug\net6.0\ExemploClasseSel.dll
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Programando_com_Orientacao_a_Objeto_Com_CSharp\Classes_Seladas\ExemploClasseSel\bin\Debug\net6.0\ExemploClasseSel.pdb
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Programando_com_Orientacao_a_Objeto_Com_CSharp\Classes_Seladas\ExemploClasseSel\obj\Debug\net6.0\ExemploClasseSel.csproj.AssemblyReference.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Programando_com_Orientacao_a_Objeto_Com_CSharp\Classes_Seladas\ExemploClasseSel\obj\Debug\net6.0\ExemploClasseSel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Programando_com_Orientacao_a_Objeto_Com_CSharp\Classes_Seladas\ExemploClasseSel\obj\Debug\net6.0\ExemploClasseSel.AssemblyInfoInputs.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Programando_com_Orientacao_a_Objeto_Com_CSharp\Classes_Seladas\ExemploClasseSel\obj\Debug\net6.0\ExemploClasseSel.AssemblyInfo.cs
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Programando_com_Orientacao_a_Objeto_Com_CSharp\Classes_Seladas\ExemploClasseSel\obj\Debug\net6.0\ExemploClasseSel.csproj.CoreCompileInputs.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Programando_com_Orientacao_a_Objeto_Com_CSharp\Classes_Seladas\ExemploClasseSel\obj\Debug\net6.0\ExemploClasseSel.dll
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Programando_com_Orientacao_a_Objeto_Com_CSharp\Classes_Seladas\ExemploClasseSel\obj\Debug\net6.0\refint\ExemploClasseSel.dll
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Programando_com_Orientacao_a_Objeto_Com_CSharp\Classes_Seladas\ExemploClasseSel\obj\Debug\net6.0\ExemploClasseSel.pdb
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Programando_com_Orientacao_a_Objeto_Com_CSharp\Classes_Seladas\ExemploClasseSel\obj\Debug\net6.0\ExemploClasseSel.genruntimeconfig.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Programando_com_Orientacao_a_Objeto_Com_CSharp\Classes_Seladas\ExemploClasseSel\obj\Debug\net6.0\ref\ExemploClasseSel.dll
