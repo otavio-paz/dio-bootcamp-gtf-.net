@@ -21,7 +21,35 @@
 
 ## Estudos adicionais:
 ✔ Projetos Ágeis com SCRUM  
-✔ Linux: Introdução ao Sistema Operacional e Terminal  
+✔ Linux: Introdução ao Sistema Operacional e Terminal
+
+## General Algorithm:
+⏳ 1. Euclid's Algorithm  
+⏳ 2. Union Find Algorithm  
+⏳ 3. Huffman Algorithm  
+
+## Arrays:
+⏳ 1. Kadane's Algorithm  
+⏳ 2. Floy's Cycle Detection  
+⏳ 3. KMP Algo  
+⏳ 4. Quick Select Algo  
+⏳ 5. Boyer Algo  
+
+##Graphs:
+⏳ 1. Kruskal Algo
+⏳ 2. Dijkstra's  
+⏳ 3. Bellman-Ford  
+⏳ 4. Topological Sort  
+⏳ 5. Floyd Warshall  
+⏳ 6. Flood Fill  
+⏳ 7. Lee  
+
+## Searching:
+✔ 1. Linear Search  
+⏳ 2. Jump Search  
+✔ 3. Binary Search  
+⏳ 4. DFS  
+⏳ 5. BFS  
 
 ## Anotações:
 
