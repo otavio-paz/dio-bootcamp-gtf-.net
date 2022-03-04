@@ -8,10 +8,11 @@ namespace ExemploGettersSetters
         static void Main(string [] args)
         {
             Data data1 = new Data();
-            data1.SetMonth(20);
+            // data1.SetMonth(20); //usando o método set
 
-            
-            data1.TellMonth();
+            data1.Month = 12; //usando a propriedade
+
+            data1.TellMonth(); //usando o método tell month
 
         }
     }
