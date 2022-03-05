@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Abstraindo__jogo_RPG
-build_property.ProjectDir = c:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Abstraindo_ jogo_RPG\
+build_property.RootNamespace = FileSystemWatcher
+build_property.ProjectDir = c:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Trabalhando_com_Arquivos_e_Streams\FileSystemWatcher\
