@@ -1,0 +1,15 @@
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Trabalhando_com_Arquivos_e_Streams\SystemIO\bin\Debug\net6.0\SystemIO.exe
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Trabalhando_com_Arquivos_e_Streams\SystemIO\bin\Debug\net6.0\SystemIO.deps.json
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Trabalhando_com_Arquivos_e_Streams\SystemIO\bin\Debug\net6.0\SystemIO.runtimeconfig.json
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Trabalhando_com_Arquivos_e_Streams\SystemIO\bin\Debug\net6.0\SystemIO.dll
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Trabalhando_com_Arquivos_e_Streams\SystemIO\bin\Debug\net6.0\SystemIO.pdb
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Trabalhando_com_Arquivos_e_Streams\SystemIO\obj\Debug\net6.0\SystemIO.csproj.AssemblyReference.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Trabalhando_com_Arquivos_e_Streams\SystemIO\obj\Debug\net6.0\SystemIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Trabalhando_com_Arquivos_e_Streams\SystemIO\obj\Debug\net6.0\SystemIO.AssemblyInfoInputs.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Trabalhando_com_Arquivos_e_Streams\SystemIO\obj\Debug\net6.0\SystemIO.AssemblyInfo.cs
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Trabalhando_com_Arquivos_e_Streams\SystemIO\obj\Debug\net6.0\SystemIO.csproj.CoreCompileInputs.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Trabalhando_com_Arquivos_e_Streams\SystemIO\obj\Debug\net6.0\SystemIO.dll
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Trabalhando_com_Arquivos_e_Streams\SystemIO\obj\Debug\net6.0\refint\SystemIO.dll
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Trabalhando_com_Arquivos_e_Streams\SystemIO\obj\Debug\net6.0\SystemIO.pdb
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Trabalhando_com_Arquivos_e_Streams\SystemIO\obj\Debug\net6.0\SystemIO.genruntimeconfig.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Trabalhando_com_Arquivos_e_Streams\SystemIO\obj\Debug\net6.0\ref\SystemIO.dll
