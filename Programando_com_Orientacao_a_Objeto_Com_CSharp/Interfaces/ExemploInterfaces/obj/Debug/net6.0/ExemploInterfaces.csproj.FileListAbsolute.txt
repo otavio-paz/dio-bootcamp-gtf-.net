@@ -1,0 +1,15 @@
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Programando_com_Orientacao_a_Objeto_Com_CSharp\Interfaces\ExemploInterfaces\bin\Debug\net6.0\ExemploInterfaces.exe
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Programando_com_Orientacao_a_Objeto_Com_CSharp\Interfaces\ExemploInterfaces\bin\Debug\net6.0\ExemploInterfaces.deps.json
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Programando_com_Orientacao_a_Objeto_Com_CSharp\Interfaces\ExemploInterfaces\bin\Debug\net6.0\ExemploInterfaces.runtimeconfig.json
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Programando_com_Orientacao_a_Objeto_Com_CSharp\Interfaces\ExemploInterfaces\bin\Debug\net6.0\ExemploInterfaces.dll
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Programando_com_Orientacao_a_Objeto_Com_CSharp\Interfaces\ExemploInterfaces\bin\Debug\net6.0\ExemploInterfaces.pdb
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Programando_com_Orientacao_a_Objeto_Com_CSharp\Interfaces\ExemploInterfaces\obj\Debug\net6.0\ExemploInterfaces.csproj.AssemblyReference.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Programando_com_Orientacao_a_Objeto_Com_CSharp\Interfaces\ExemploInterfaces\obj\Debug\net6.0\ExemploInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Programando_com_Orientacao_a_Objeto_Com_CSharp\Interfaces\ExemploInterfaces\obj\Debug\net6.0\ExemploInterfaces.AssemblyInfoInputs.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Programando_com_Orientacao_a_Objeto_Com_CSharp\Interfaces\ExemploInterfaces\obj\Debug\net6.0\ExemploInterfaces.AssemblyInfo.cs
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Programando_com_Orientacao_a_Objeto_Com_CSharp\Interfaces\ExemploInterfaces\obj\Debug\net6.0\ExemploInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Programando_com_Orientacao_a_Objeto_Com_CSharp\Interfaces\ExemploInterfaces\obj\Debug\net6.0\ExemploInterfaces.dll
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Programando_com_Orientacao_a_Objeto_Com_CSharp\Interfaces\ExemploInterfaces\obj\Debug\net6.0\refint\ExemploInterfaces.dll
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Programando_com_Orientacao_a_Objeto_Com_CSharp\Interfaces\ExemploInterfaces\obj\Debug\net6.0\ExemploInterfaces.pdb
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Programando_com_Orientacao_a_Objeto_Com_CSharp\Interfaces\ExemploInterfaces\obj\Debug\net6.0\ExemploInterfaces.genruntimeconfig.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Programando_com_Orientacao_a_Objeto_Com_CSharp\Interfaces\ExemploInterfaces\obj\Debug\net6.0\ref\ExemploInterfaces.dll
