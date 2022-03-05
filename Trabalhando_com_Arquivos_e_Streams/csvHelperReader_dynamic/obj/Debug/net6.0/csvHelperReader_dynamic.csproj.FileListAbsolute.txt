@@ -1,0 +1,17 @@
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Trabalhando_com_Arquivos_e_Streams\csvHelperReader_dynamic\bin\Debug\net6.0\csvHelperReader_dynamic.exe
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Trabalhando_com_Arquivos_e_Streams\csvHelperReader_dynamic\bin\Debug\net6.0\csvHelperReader_dynamic.deps.json
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Trabalhando_com_Arquivos_e_Streams\csvHelperReader_dynamic\bin\Debug\net6.0\csvHelperReader_dynamic.runtimeconfig.json
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Trabalhando_com_Arquivos_e_Streams\csvHelperReader_dynamic\bin\Debug\net6.0\csvHelperReader_dynamic.dll
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Trabalhando_com_Arquivos_e_Streams\csvHelperReader_dynamic\bin\Debug\net6.0\csvHelperReader_dynamic.pdb
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Trabalhando_com_Arquivos_e_Streams\csvHelperReader_dynamic\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Trabalhando_com_Arquivos_e_Streams\csvHelperReader_dynamic\obj\Debug\net6.0\csvHelperReader_dynamic.csproj.AssemblyReference.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Trabalhando_com_Arquivos_e_Streams\csvHelperReader_dynamic\obj\Debug\net6.0\csvHelperReader_dynamic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Trabalhando_com_Arquivos_e_Streams\csvHelperReader_dynamic\obj\Debug\net6.0\csvHelperReader_dynamic.AssemblyInfoInputs.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Trabalhando_com_Arquivos_e_Streams\csvHelperReader_dynamic\obj\Debug\net6.0\csvHelperReader_dynamic.AssemblyInfo.cs
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Trabalhando_com_Arquivos_e_Streams\csvHelperReader_dynamic\obj\Debug\net6.0\csvHelperReader_dynamic.csproj.CoreCompileInputs.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Trabalhando_com_Arquivos_e_Streams\csvHelperReader_dynamic\obj\Debug\net6.0\csvHelperReader_dynamic.csproj.CopyComplete
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Trabalhando_com_Arquivos_e_Streams\csvHelperReader_dynamic\obj\Debug\net6.0\csvHelperReader_dynamic.dll
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Trabalhando_com_Arquivos_e_Streams\csvHelperReader_dynamic\obj\Debug\net6.0\refint\csvHelperReader_dynamic.dll
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Trabalhando_com_Arquivos_e_Streams\csvHelperReader_dynamic\obj\Debug\net6.0\csvHelperReader_dynamic.pdb
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Trabalhando_com_Arquivos_e_Streams\csvHelperReader_dynamic\obj\Debug\net6.0\csvHelperReader_dynamic.genruntimeconfig.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Trabalhando_com_Arquivos_e_Streams\csvHelperReader_dynamic\obj\Debug\net6.0\ref\csvHelperReader_dynamic.dll
