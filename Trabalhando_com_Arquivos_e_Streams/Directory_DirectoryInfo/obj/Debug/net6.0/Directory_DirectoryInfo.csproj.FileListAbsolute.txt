@@ -1,0 +1,15 @@
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Trabalhando_com_Arquivos_e_Streams\Directory_DirectoryInfo\bin\Debug\net6.0\Directory_DirectoryInfo.exe
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Trabalhando_com_Arquivos_e_Streams\Directory_DirectoryInfo\bin\Debug\net6.0\Directory_DirectoryInfo.deps.json
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Trabalhando_com_Arquivos_e_Streams\Directory_DirectoryInfo\bin\Debug\net6.0\Directory_DirectoryInfo.runtimeconfig.json
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Trabalhando_com_Arquivos_e_Streams\Directory_DirectoryInfo\bin\Debug\net6.0\Directory_DirectoryInfo.dll
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Trabalhando_com_Arquivos_e_Streams\Directory_DirectoryInfo\bin\Debug\net6.0\Directory_DirectoryInfo.pdb
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Trabalhando_com_Arquivos_e_Streams\Directory_DirectoryInfo\obj\Debug\net6.0\Directory_DirectoryInfo.csproj.AssemblyReference.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Trabalhando_com_Arquivos_e_Streams\Directory_DirectoryInfo\obj\Debug\net6.0\Directory_DirectoryInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Trabalhando_com_Arquivos_e_Streams\Directory_DirectoryInfo\obj\Debug\net6.0\Directory_DirectoryInfo.AssemblyInfoInputs.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Trabalhando_com_Arquivos_e_Streams\Directory_DirectoryInfo\obj\Debug\net6.0\Directory_DirectoryInfo.AssemblyInfo.cs
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Trabalhando_com_Arquivos_e_Streams\Directory_DirectoryInfo\obj\Debug\net6.0\Directory_DirectoryInfo.csproj.CoreCompileInputs.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Trabalhando_com_Arquivos_e_Streams\Directory_DirectoryInfo\obj\Debug\net6.0\Directory_DirectoryInfo.dll
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Trabalhando_com_Arquivos_e_Streams\Directory_DirectoryInfo\obj\Debug\net6.0\refint\Directory_DirectoryInfo.dll
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Trabalhando_com_Arquivos_e_Streams\Directory_DirectoryInfo\obj\Debug\net6.0\Directory_DirectoryInfo.pdb
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Trabalhando_com_Arquivos_e_Streams\Directory_DirectoryInfo\obj\Debug\net6.0\Directory_DirectoryInfo.genruntimeconfig.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Trabalhando_com_Arquivos_e_Streams\Directory_DirectoryInfo\obj\Debug\net6.0\ref\Directory_DirectoryInfo.dll
