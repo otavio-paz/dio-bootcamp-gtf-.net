@@ -17,7 +17,7 @@
 ✔ Desafios Iniciais - GFT Start #4 .NET.  
 ✔ Abstraindo um Jogo de RPG usando Orientação a Objetos com C#.  
 ✔ Introdução a HTTP/HTTPS (APIs e REST).  
-⏳ Trabalhando com Arquivos e Streams em C#.  
+✔ Trabalhando com Arquivos e Streams em C#.  
 ✔ Construtores, Propriedades, Delegates e Eventos em .NET.   
 ✔ Programando com Orientação a Objeto com C#.  
 ⏳ Fundamentos de Coleções e LINQ com .NET.  
