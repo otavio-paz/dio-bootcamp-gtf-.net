@@ -8,16 +8,24 @@
 ✔ Lógica de Programação Essencial.  
 ✔ Aprenda o que são Estrutura de Dados e Algoritmos.  
 ✔ Introdução ao Git e ao Git Hub.  
-✔ Criando seu Primeiro Reposótirio no GitHuv Para Compartilhar Seu Progresso.  
+✔ Criando seu Primeiro Reposótirio no GitHub Para Compartilhar Seu Progresso.  
 ✔ Introdução ao Ecossistema .NET e Documentação.  
 ✔ Criando o ambiente de desenvolvimento.  
 ✔ Primeiros passos com .NET.  
 ✔ Trabalhando com Tipos de Referência e Valor em C#.  
 ✔ Controlando o Fluxo de Execução.  
+✔ Desafios Iniciais - GFT Start #4 .NET.  
 ✔ Abstraindo um Jogo de RPG usando Orientação a Objetos com C#.  
 ✔ Introdução a HTTP/HTTPS (APIs e REST).  
 ⏳ Trabalhando com Arquivos e Streams em C#.  
-✔ Construtores, Propriedades, Delegates e Eventos em .NET.  
+✔ Construtores, Propriedades, Delegates e Eventos em .NET.   
+✔ Programando com Orientação a Objeto com C#.  
+⏳ Fundamentos de Coleções e LINQ com .NET.  
+⏳ Tratamento de Erro em C# com Exceptions.  
+⏳ Desenvolvimento de aplicações com .NET.  
+⏳ Configuração da arquitetura back-end com .NET Core.  
+⏳ Criando um APP simples de cadastro de séries em .NET.  
+⏳ Desafios básicos - GFT Start #4 .NET.  
 
 ## Estudos adicionais:
 ✔ Projetos Ágeis com SCRUM  
@@ -35,9 +43,9 @@
 ⏳ 4. Quick Select Algo  
 ⏳ 5. Boyer Algo  
 
-##Graphs:
-⏳ 1. Kruskal Algo
-⏳ 2. Dijkstra's  
+## Graphs:
+⏳ 1. Kruskal Algo  
+⏳ 2. Dijkstra's   
 ⏳ 3. Bellman-Ford  
 ⏳ 4. Topological Sort  
 ⏳ 5. Floyd Warshall  
@@ -57,4 +65,5 @@
 
 ## Outros repositórios:
 
-[Arduino: LCD + Sensor Ultrassônico](https://github.com/otavio-paz/Arduino-LCD-Ultrassonico.git)
+[Arduino: LCD + Sensor Ultrassônico](https://github.com/otavio-paz/Arduino-LCD-Ultrassonico.git)  
+[Robô Wall-e](https://github.com/otavio-paz/Wall-e-Robo)  
