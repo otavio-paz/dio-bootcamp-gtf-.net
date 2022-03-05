@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LM0PHpZprO1K44b7Hp1PnHgriZ0G36/pYcO2bAq57ILfCLqUZyXrULb6S79akC0tEqpEA6PAJ3+TcJwWESUx4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pazot\\Desktop\\Projects\\Git\\Digital Innovation One\\dio-bootcamp-gtf-.net\\Trabalhando_com_Arquivos_e_Streams\\csvReader_classe\\csvReader_classe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pazot\\.nuget\\packages\\csvhelper\\27.2.1\\csvhelper.27.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
