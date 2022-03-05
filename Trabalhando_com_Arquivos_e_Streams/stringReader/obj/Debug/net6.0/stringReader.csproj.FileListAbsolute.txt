@@ -1,0 +1,15 @@
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Trabalhando_com_Arquivos_e_Streams\stringReader\bin\Debug\net6.0\stringReader.exe
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Trabalhando_com_Arquivos_e_Streams\stringReader\bin\Debug\net6.0\stringReader.deps.json
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Trabalhando_com_Arquivos_e_Streams\stringReader\bin\Debug\net6.0\stringReader.runtimeconfig.json
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Trabalhando_com_Arquivos_e_Streams\stringReader\bin\Debug\net6.0\stringReader.dll
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Trabalhando_com_Arquivos_e_Streams\stringReader\bin\Debug\net6.0\stringReader.pdb
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Trabalhando_com_Arquivos_e_Streams\stringReader\obj\Debug\net6.0\stringReader.csproj.AssemblyReference.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Trabalhando_com_Arquivos_e_Streams\stringReader\obj\Debug\net6.0\stringReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Trabalhando_com_Arquivos_e_Streams\stringReader\obj\Debug\net6.0\stringReader.AssemblyInfoInputs.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Trabalhando_com_Arquivos_e_Streams\stringReader\obj\Debug\net6.0\stringReader.AssemblyInfo.cs
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Trabalhando_com_Arquivos_e_Streams\stringReader\obj\Debug\net6.0\stringReader.csproj.CoreCompileInputs.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Trabalhando_com_Arquivos_e_Streams\stringReader\obj\Debug\net6.0\stringReader.dll
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Trabalhando_com_Arquivos_e_Streams\stringReader\obj\Debug\net6.0\refint\stringReader.dll
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Trabalhando_com_Arquivos_e_Streams\stringReader\obj\Debug\net6.0\stringReader.pdb
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Trabalhando_com_Arquivos_e_Streams\stringReader\obj\Debug\net6.0\stringReader.genruntimeconfig.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Trabalhando_com_Arquivos_e_Streams\stringReader\obj\Debug\net6.0\ref\stringReader.dll
