@@ -30,7 +30,42 @@ namespace Classe_Array.helper
         {
             Array.Sort(array); //usando classe array, metodo sort
         }
-                            
+
+        public void Copiar(ref int[] array, ref int[] arrayDestino)
+        {
+            Array.Copy(array, arrayDestino, array.Length); //o array, onde copiar, quanto copiar
+        }
+
+        public bool Existe(int[] array, int valor) //como nao vai manipular, nao precisa do ref
+        {
+            return Array.Exists(array, elemento => elemento == valor);
+        }
+
+        public bool TodosMaiorQue(int [] array, int valor)
+        {
+            return Array.TrueForAll(array, elemento => elemento > valor);
+        }
+
+        public int ObterValor(int[] array, int valor)
+        {
+            return Array.Find(array, element => element == valor);
+        }
+
+        public int ObterIndice(int [] array, int valor)
+        {
+            return Array.IndexOf(array, valor); //IndexOf nao precisa do valor, procura igualdade -> retorna -1 quando nao acha
+        }
+
+        public void RedimensionarArray(ref int[] array, int novoTamanho)
+        {
+            Array.Resize(ref array, novoTamanho);
+        }
+
+        public string[] ConverterParaArrayString(int[] array)
+        {
+            return Array.ConvertAll(array, elemento => elemento.ToString()); //vai converter pelo metodo do To.String
+        }
+
     }
 }
 
