@@ -1,0 +1,15 @@
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Fundamentos_de_Colecoes_e_LINQ\Classe_Array\bin\Debug\net6.0\Classe_Array.exe
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Fundamentos_de_Colecoes_e_LINQ\Classe_Array\bin\Debug\net6.0\Classe_Array.deps.json
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Fundamentos_de_Colecoes_e_LINQ\Classe_Array\bin\Debug\net6.0\Classe_Array.runtimeconfig.json
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Fundamentos_de_Colecoes_e_LINQ\Classe_Array\bin\Debug\net6.0\Classe_Array.dll
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Fundamentos_de_Colecoes_e_LINQ\Classe_Array\bin\Debug\net6.0\Classe_Array.pdb
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Fundamentos_de_Colecoes_e_LINQ\Classe_Array\obj\Debug\net6.0\Classe_Array.csproj.AssemblyReference.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Fundamentos_de_Colecoes_e_LINQ\Classe_Array\obj\Debug\net6.0\Classe_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Fundamentos_de_Colecoes_e_LINQ\Classe_Array\obj\Debug\net6.0\Classe_Array.AssemblyInfoInputs.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Fundamentos_de_Colecoes_e_LINQ\Classe_Array\obj\Debug\net6.0\Classe_Array.AssemblyInfo.cs
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Fundamentos_de_Colecoes_e_LINQ\Classe_Array\obj\Debug\net6.0\Classe_Array.csproj.CoreCompileInputs.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Fundamentos_de_Colecoes_e_LINQ\Classe_Array\obj\Debug\net6.0\Classe_Array.dll
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Fundamentos_de_Colecoes_e_LINQ\Classe_Array\obj\Debug\net6.0\refint\Classe_Array.dll
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Fundamentos_de_Colecoes_e_LINQ\Classe_Array\obj\Debug\net6.0\Classe_Array.pdb
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Fundamentos_de_Colecoes_e_LINQ\Classe_Array\obj\Debug\net6.0\Classe_Array.genruntimeconfig.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Fundamentos_de_Colecoes_e_LINQ\Classe_Array\obj\Debug\net6.0\ref\Classe_Array.dll
