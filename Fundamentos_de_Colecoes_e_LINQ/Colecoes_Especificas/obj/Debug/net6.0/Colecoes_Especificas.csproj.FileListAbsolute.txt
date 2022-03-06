@@ -1,0 +1,15 @@
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Fundamentos_de_Colecoes_e_LINQ\Colecoes_Especificas\bin\Debug\net6.0\Colecoes_Especificas.exe
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Fundamentos_de_Colecoes_e_LINQ\Colecoes_Especificas\bin\Debug\net6.0\Colecoes_Especificas.deps.json
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Fundamentos_de_Colecoes_e_LINQ\Colecoes_Especificas\bin\Debug\net6.0\Colecoes_Especificas.runtimeconfig.json
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Fundamentos_de_Colecoes_e_LINQ\Colecoes_Especificas\bin\Debug\net6.0\Colecoes_Especificas.dll
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Fundamentos_de_Colecoes_e_LINQ\Colecoes_Especificas\bin\Debug\net6.0\Colecoes_Especificas.pdb
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Fundamentos_de_Colecoes_e_LINQ\Colecoes_Especificas\obj\Debug\net6.0\Colecoes_Especificas.csproj.AssemblyReference.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Fundamentos_de_Colecoes_e_LINQ\Colecoes_Especificas\obj\Debug\net6.0\Colecoes_Especificas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Fundamentos_de_Colecoes_e_LINQ\Colecoes_Especificas\obj\Debug\net6.0\Colecoes_Especificas.AssemblyInfoInputs.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Fundamentos_de_Colecoes_e_LINQ\Colecoes_Especificas\obj\Debug\net6.0\Colecoes_Especificas.AssemblyInfo.cs
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Fundamentos_de_Colecoes_e_LINQ\Colecoes_Especificas\obj\Debug\net6.0\Colecoes_Especificas.csproj.CoreCompileInputs.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Fundamentos_de_Colecoes_e_LINQ\Colecoes_Especificas\obj\Debug\net6.0\Colecoes_Especificas.dll
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Fundamentos_de_Colecoes_e_LINQ\Colecoes_Especificas\obj\Debug\net6.0\refint\Colecoes_Especificas.dll
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Fundamentos_de_Colecoes_e_LINQ\Colecoes_Especificas\obj\Debug\net6.0\Colecoes_Especificas.pdb
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Fundamentos_de_Colecoes_e_LINQ\Colecoes_Especificas\obj\Debug\net6.0\Colecoes_Especificas.genruntimeconfig.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Fundamentos_de_Colecoes_e_LINQ\Colecoes_Especificas\obj\Debug\net6.0\ref\Colecoes_Especificas.dll
