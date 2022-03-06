@@ -1,0 +1,15 @@
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Fundamentos_de_Colecoes_e_LINQ\Dicionario\bin\Debug\net6.0\Dicionario.exe
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Fundamentos_de_Colecoes_e_LINQ\Dicionario\bin\Debug\net6.0\Dicionario.deps.json
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Fundamentos_de_Colecoes_e_LINQ\Dicionario\bin\Debug\net6.0\Dicionario.runtimeconfig.json
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Fundamentos_de_Colecoes_e_LINQ\Dicionario\bin\Debug\net6.0\Dicionario.dll
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Fundamentos_de_Colecoes_e_LINQ\Dicionario\bin\Debug\net6.0\Dicionario.pdb
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Fundamentos_de_Colecoes_e_LINQ\Dicionario\obj\Debug\net6.0\Dicionario.csproj.AssemblyReference.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Fundamentos_de_Colecoes_e_LINQ\Dicionario\obj\Debug\net6.0\Dicionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Fundamentos_de_Colecoes_e_LINQ\Dicionario\obj\Debug\net6.0\Dicionario.AssemblyInfoInputs.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Fundamentos_de_Colecoes_e_LINQ\Dicionario\obj\Debug\net6.0\Dicionario.AssemblyInfo.cs
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Fundamentos_de_Colecoes_e_LINQ\Dicionario\obj\Debug\net6.0\Dicionario.csproj.CoreCompileInputs.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Fundamentos_de_Colecoes_e_LINQ\Dicionario\obj\Debug\net6.0\Dicionario.dll
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Fundamentos_de_Colecoes_e_LINQ\Dicionario\obj\Debug\net6.0\refint\Dicionario.dll
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Fundamentos_de_Colecoes_e_LINQ\Dicionario\obj\Debug\net6.0\Dicionario.pdb
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Fundamentos_de_Colecoes_e_LINQ\Dicionario\obj\Debug\net6.0\Dicionario.genruntimeconfig.cache
+C:\Users\pazot\Desktop\Projects\Git\Digital Innovation One\dio-bootcamp-gtf-.net\Fundamentos_de_Colecoes_e_LINQ\Dicionario\obj\Debug\net6.0\ref\Dicionario.dll
