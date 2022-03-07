@@ -14,7 +14,8 @@ namespace Criando_App_series
         Musical = 10,
        Romance = 11,
         Suspense = 12,
-        Terror = 13
+        Terror = 13,
+        LGBT = 14
    }
 
 }

@@ -39,7 +39,7 @@ namespace Criando_App_series
                 opcaoUsuario = ObterOpcaoUsuario();
             }
 
-            Console.WriteLine("Obrigado por utilizar nossos serviços.");
+            Console.WriteLine("Agradeço por utilizar nossos serviços. \n");
             Console.ReadLine();
         }
 
@@ -51,7 +51,7 @@ namespace Criando_App_series
 
 			if (lista.Count == 0)
 			{
-				Console.WriteLine("Nenhuma série cadastrada.");
+				Console.WriteLine("Ixi! Nenhuma série cadastrada.");
 				return;
 			}
 
@@ -76,7 +76,7 @@ namespace Criando_App_series
             Console.Write("Digite o Título da Série: ");
             string entradaTitulo = Console.ReadLine();
 
-            Console.Write("Digite o Ano de Início da Série: ");
+            Console.Write("Digite o Ano de Lançamento da Série: ");
             int entradaAno = int.Parse(Console.ReadLine());
 
             Console.Write("Digite a Descrição da Série: ");
@@ -93,7 +93,7 @@ namespace Criando_App_series
 
         private static void ExcluirSerie()
         {
-            Console.Write("Digite o id da série: ");
+            Console.Write("Digite o ID da série: ");
             int indiceSerie = int.Parse(Console.ReadLine());
 
             repositorio.Exclui(indiceSerie);
@@ -101,7 +101,7 @@ namespace Criando_App_series
 
         private static void VisualizarSerie()
         {
-            Console.Write("Digite o id da série: ");
+            Console.Write("Digite o ID da série: ");
             int indiceSerie = int.Parse(Console.ReadLine());
 
             var serie = repositorio.RetornaPorId(indiceSerie);
@@ -111,7 +111,7 @@ namespace Criando_App_series
 
         private static void AtualizarSerie()
         {
-            Console.Write("Digite o id da série: ");
+            Console.Write("Digite o ID da série: \n");
             int indiceSerie = int.Parse(Console.ReadLine());
 
 
@@ -125,7 +125,7 @@ namespace Criando_App_series
             Console.Write("Digite o Título da Série: ");
             string entradaTitulo = Console.ReadLine();
 
-            Console.Write("Digite o Ano de Início da Série: ");
+            Console.Write("Digite o Ano de Lançamento da Série: ");
             int entradaAno = int.Parse(Console.ReadLine());
 
             Console.Write("Digite a Descrição da Série: ");
@@ -143,8 +143,8 @@ namespace Criando_App_series
         private static string ObterOpcaoUsuario()
         {
             Console.WriteLine();
-            Console.WriteLine("DIO Séries a seu dispor!1!");
-            Console.WriteLine("Informe p opção desejada:");
+            Console.WriteLine("Otavioflix a seu dispor!!! \n");
+            Console.WriteLine("Informe a opção desejada:");
             Console.WriteLine("1 - Listar séries");
             Console.WriteLine("2 - Inserir nova série");
             Console.WriteLine("3 - Atualizar série");
