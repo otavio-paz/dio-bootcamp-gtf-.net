@@ -23,9 +23,9 @@
 ✔ Fundamentos de Coleções e LINQ com .NET.  
 ✔ Tratamento de Erro em C# com Exceptions.  
 ✔ Desenvolvimento de aplicações com .NET.  
-⏳ Configuração da arquitetura back-end com .NET Core.  
-⏳ Criando um APP simples de cadastro de séries em .NET.  
-⏳ Desafios básicos - GFT Start #4 .NET.  
+✔ Configuração da arquitetura back-end com .NET Core.  
+✔ Criando um APP simples de cadastro de séries em .NET.  
+✔ Desafios básicos - GFT Start #4 .NET.  
 
 ## Estudos adicionais:
 ✔ Projetos Ágeis com SCRUM  
