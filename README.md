@@ -67,3 +67,4 @@
 
 [Arduino: LCD + Sensor Ultrassônico](https://github.com/otavio-paz/Arduino-LCD-Ultrassonico.git)  
 [Robô Wall-e](https://github.com/otavio-paz/Wall-e-Robo)  
+[Bootcamp GFT QA](https://github.com/otavio-paz/dio-bootcamp-gtf-QA)
